@@ -6,6 +6,7 @@ It uses a Python-based deep learning module for the core text processing, with a
 ---
 
 📂 Project Structure
+--
 OCR Text Converter/
 │
 ├── be/ # Backend (Node.js + TypeScript)
