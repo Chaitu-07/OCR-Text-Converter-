@@ -20,10 +20,6 @@ Handwritten to Digital Text Recognition/
 │ └── segmentation_*.py
 └── README.md
 
-yaml
-Copy
-Edit
-
 ---
 
 ⚙️ Installation
