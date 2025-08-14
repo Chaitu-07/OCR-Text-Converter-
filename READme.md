@@ -1,4 +1,5 @@
 OCR Text Converter
+---
 A hybrid application that combines Machine Learning and a Web Interface to extract and process text from images.  
 It uses a Python-based deep learning module for the core text processing, with a Node.js backend API and a modern Vite + TailwindCSS frontend.
 
