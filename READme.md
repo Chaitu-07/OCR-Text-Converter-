@@ -1,12 +1,11 @@
-Handwritten to Digital Text Recognition
-
+OCR Text Converter
 A hybrid application that combines Machine Learning and a Web Interface to extract and process text from images.  
 It uses a Python-based deep learning module for the core text processing, with a Node.js backend API and a modern Vite + TailwindCSS frontend.
 
 ---
 
 📂 Project Structure
-Handwritten to Digital Text Recognition/
+OCR Text Converter/
 │
 ├── be/ # Backend (Node.js + TypeScript)
 ├── fe/ # Frontend (Vite + TailwindCSS + TypeScript)
@@ -26,7 +25,7 @@ Handwritten to Digital Text Recognition/
 
 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/TextConverter.git
+git clone https://github.com/Chaitu-07/OCR-Text-Converter.git
 cd TextConverter
 
 2️⃣ Backend Setup
